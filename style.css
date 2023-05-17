@@ -136,7 +136,7 @@ input.nosubmit {
 }
 .left-and-right p{
     font-size: 19px;
-    line-height: 35px;
+    line-height: 32px;
 }
 
 .left-holder {
@@ -152,7 +152,7 @@ input.nosubmit {
     background-color: white;
     box-shadow: 5px 5px 15px 5px gray;
     width: 65%;
-    height: 250px;
+    height: 220px;
     display: flex;
     justify-content: center;
     align-items: center;
